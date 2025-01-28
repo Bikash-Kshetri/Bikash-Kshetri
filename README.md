@@ -1,24 +1,19 @@
 <h1 align="center">Hi 👋, I'm Bikash Kshetri</h1>
-<h3 align="center">A Passionate Full-Stack JavaScript Developer From NEPAL.</h3>
-<img align="right"alt="coding"width="400"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bikashkshetri&label=Profile%20views&color=0e75b6&style=flat" alt="bikashkshetri" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bikashkshetri" alt="bikashkshetri" /></a> </p>
+<h3 align="center">A Passionate Software Developer from Nepal.</h3>
 
 <p align="left"> <a href="https://twitter.com/bikashrayamaj10" target="blank"><img src="https://img.shields.io/twitter/follow/bikashrayamaj10?logo=twitter&style=for-the-badge" alt="bikashrayamaj10" /></a> </p>
 
-- 🌱 I’m currently learning **Mongo DB, Express, Reactjs, Nodejs, Tailwind**
+- 🌱 I’m currently learning **Mongo DB, React, Vue, Expressjs, Nodejs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Bikash-Kshetri](https://github.com/Bikash-Kshetri)
 
 - 📝 I regularly write articles on [https://viks2023.blogspot.com/](https://viks2023.blogspot.com/)
 
-- 💬 Ask me about **Html, CSS, React, Javascript, React, Tailwind **
+- 💬 Ask me about **Html, CSS, React, Javascript**
 
-- 📫 How to reach me **9826409847,9843749112, kshetridilip2020@gmail.com**
+- 📫 How to reach me **9826409847, kshetridilip2020@gmail.com**
 
-- ⚡ Fun fact **I am a comedian,blogger,self Entertainer and Enthusiastic Person.**
+- ⚡ Fun fact **I am a comedy,blogger,self entertainer and enthusiastic Person.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,3 +31,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bikashkshetri&show_icons=true&locale=en" alt="bikashkshetri" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bikashkshetri&" alt="bikashkshetri" /></p>
